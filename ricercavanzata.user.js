@@ -7,7 +7,7 @@
 // @match        https://www.zucchetti.it/areariservata/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
-// @license me
+// @license CC-BY-NC-SA-4.0; https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 // ==/UserScript==
 
